@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Turm
+comment1.params=
+comment1.target=void\ act()
+comment2.params=o
+comment2.target=void\ pointAtObject(greenfoot.Actor)
+comment3.params=
+comment3.target=void\ fire()
+comment4.params=
+comment4.target=void\ bauen()
+comment5.params=
+comment5.target=void\ shop()
+comment6.params=
+comment6.target=void\ checkPlatzhalter()
+comment7.params=
+comment7.target=void\ nichtsMachen()
+comment8.params=start\ end
+comment8.target=int\ getRandomNumber(int,\ int)
+numComments=9

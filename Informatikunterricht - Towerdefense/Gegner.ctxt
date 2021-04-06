@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Gegner
+comment1.params=
+comment1.target=void\ act()
+comment10.params=gb
+comment10.target=void\ setGegnerLautVerhalten(GegnerLautVerhalten)
+comment11.params=
+comment11.target=void\ tuLautMachen()
+comment12.params=
+comment12.target=void\ act3Freeze()
+comment2.params=
+comment2.target=int\ getLeben()
+comment3.params=menge
+comment3.target=void\ setSchaden(int)
+comment4.params=
+comment4.target=Knoten\ getNextNode()
+comment5.params=
+comment5.target=void\ neuFinden()
+comment6.params=
+comment6.target=void\ fliegen()
+comment7.params=
+comment7.target=void\ knotenFinden()
+comment8.params=
+comment8.target=void\ zielBeruehrt()
+comment9.params=
+comment9.target=void\ bewegen()
+numComments=13

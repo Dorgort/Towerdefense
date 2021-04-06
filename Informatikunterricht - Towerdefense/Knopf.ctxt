@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Knopf
+comment1.params=knopfArt
+comment1.target=Knopf(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKnopf()
+numComments=4

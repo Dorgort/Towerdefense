@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BossGegner
+comment1.params=
+comment1.target=BossGegner()
+comment2.params=
+comment2.target=BossGegner\ getInstanz()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
